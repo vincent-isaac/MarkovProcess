@@ -3,9 +3,7 @@
 
 # Aim : 
 
-To calculate n-th step  probability distribution  matrix of the three state Markov chain whose transition probability matrix 
-![image](https://user-images.githubusercontent.com/104613195/170176323-3b55c6cd-912c-4c89-bd9e-d3a60660ecd0.png) with initial probability matrix (0.3 0.2 0.5).
-
+![image](https://user-images.githubusercontent.com/104613195/170176804-7a25305b-c5e3-4b93-8201-8ebbe99765cc.png)
 
 # Software required :  
 
